@@ -7,10 +7,17 @@ Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral
 
 ## How To Run
 
-git clone https://github.com/tushar25477-png/face-expression-detector
-cd face-expression-detector
-pip install -r requirements.txt
-python face.py
+Clone your project
+  git clone https://github.com/YOURNAME/face-expression-detector
+
+Go into folder
+  cd face-expression-detector
+
+Install libraries
+  pip install -r requirements.txt
+
+Run
+  python face.py
 
 ## Requirements
 - Python 3.11
