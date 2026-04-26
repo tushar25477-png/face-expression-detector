@@ -4,12 +4,6 @@ A real time face expression detector using webcam built with Python.
 
 ## Emotions Detected
 Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral
-
-## Requirements
-- Python 3.11
-- Webcam
-- 4GB RAM minimum
-
 ## How To Run
 
 Step 1 - Install Python 3.11 from python.org
