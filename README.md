@@ -44,9 +44,3 @@ will be fast.
 
 ## Made By
 Tushar
-
-
-<img width="27" height="5" alt="Screenshot 2025-11-12 230113" src="https://github.com/user-attachments/assets/07aa5775-0bec-4ae7-ae8c-45c26b523907" />
-
-
-
